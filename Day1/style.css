@@ -1,0 +1,44 @@
+/* Reset default spacing and set font */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: hsl(0, 88%, 46%);
+  color: #222;
+}
+
+/* Style the main heading */
+h1 {
+  color: #07e94b;
+  text-align: center;
+}
+/* Style the main subheading */
+h2 {
+  color: #5a0fdc;
+  text-align: center;
+}
+/* Style the main subheading */
+h3 {
+  color: #2600ff;
+  text-align: center;
+}
+/* Style the paragraph */
+p {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Style the goals list */
+ul {
+  max-width: 400px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 15px 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+li {
+  margin-bottom: 8px;
+}
